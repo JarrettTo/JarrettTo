@@ -1,6 +1,6 @@
 # Hi there, I'm Justin Jarrett 👋
 
-I'm a Full Stack Developer, AI Researcher, and SaaS Developer/Founder with a passion for crafting innovative software solutions. With years of professional experience, I specialize in building scalable, high-performance applications using various robust tech stacks.
+I'm a Full Stack Developer, AI Researcher, and SaaS Developer/Founder with a passion for crafting innovative software solutions. With a couple years of professional experience, I specialize in building scalable, high-performance applications using various robust tech stacks.
 
 ## 🚀 About Me
 
