@@ -4,22 +4,16 @@ I'm a Full Stack Developer, AI Researcher, and SaaS Developer/Founder with a pas
 
 ## 🚀 About Me
 
-- **Full Stack Development:** Expertise in developing responsive, dynamic web applications from ground up, specializing in TypeScript, React, Next.js, NestJS, and Flask. Comfortable with different backend services and data structures/databases.
-- **AI Research:** Actively involved in AI research, working on pioneering projects such as sign language translation, sports betting algorithms, and financial quant models.
+- **Full Stack Development:** Years of expertise in developing responsive, dynamic web applications from ground up, specializing in TypeScript, React, Next.js, NestJS, and Flask. Comfortable with different backend services and data structures/databases.
+- **AI Research and Development:** Actively involved in AI research and development, working on pioneering projects such as sign language translation, sports betting algorithms, and financial quant models.
 - **SaaS Developer:** Developer and partner of various bootstrapped SaaS and micro-SaaS startups, creating bespoke solutions for various niches.
 - **Entrepreneurship:** Founder of **Jiu Studios**, an agency that provides cutting-edge software services, creative solutions, and strategic insights to tech startups. My work integrates the latest AI technologies to drive innovation and societal progress.
 
-## 📚 Projects & Research
+## 📈 GitHub Stats
 
-- **Sign Language Translation:** Leveraging deep learning to bridge communication gaps for the deaf and hard of hearing.
-- **Sports Betting Analysis:** Developing predictive models to analyze and bet on sports outcomes.
-- **Financial Quant:** Building sophisticated algorithms for quantitative trading and financial analysis.
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JarrettTo&show_icons=true&theme=radical)
 
-## 💼 Professional Highlights
-
-- **Full Stack Engineer:** Experienced working in various work environments and companies as a full stack engineer.
-- **SaaS Development:** Successfully contributed to the development and launch of multiple SaaS and micro-SaaS platforms, addressing unique market needs and driving user engagement.
-- **Jiu Studios:** Leading a team of talented developers and creatives at Jiu Studios, we specialize in delivering exceptional software and creative services to help tech startups scale and innovate.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JarrettTo&layout=compact&theme=radical)
 
 ## 📫 Get In Touch
 
